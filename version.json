@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "date": "2026-03-17",
+  "files": {
+    "level_1": {
+      "hash": "8e25725d46a27cd93978c54a52e86be5e67f24446b19ec2f8dcbf8bcb669c29d",
+      "size": 17533
+    },
+    "level_2": {
+      "hash": "b2097c0d16e84381b796965916c6a4733e16bac4c7ecf4cf1642b79092b5a667",
+      "size": 2635
+    },
+    "level_3": {
+      "hash": "1492cf7cc3958d0aa5d2c5009f7a25d67b45ef915dec58412052f1cd57292bc0",
+      "size": 2493
+    },
+    "level_4": {
+      "hash": "ba18834d1161ea69ccfe065c2e340d99dbcc16ce6b0c8369e993ec9b35bea906",
+      "size": 1583
+    },
+    "level_5": {
+      "hash": "380a61353bcb779953f13a5606225630fd0e09533783df73ab9b7e269f519432",
+      "size": 1454
+    }
+  }
+}
