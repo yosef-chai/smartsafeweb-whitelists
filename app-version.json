@@ -1,7 +1,7 @@
-{
-  "version_code": 25,
-  "version_name": "0.5.5",
-  "apk_url": "https://github.com/yosef-chai/smartsafeweb-whitelists/releases/download/v0.5.5/SmartSafeWeb-v0.5.5.apk",
-  "sha256": "9ad481a8dabd125000177a29f3f732f99d18872720b312682db66c8fd9f56415",
-  "release_notes_he": "גרסה ראשונה עם מנגנון עדכון אוטומטי"
+﻿{
+    "version_code":  25,
+    "version_name":  "0.5.5",
+    "apk_url":  "https://github.com/yosef-chai/smartsafeweb-whitelists/releases/download/v0.5.5/SmartSafeWeb-v0.5.5.apk",
+    "sha256":  "b885bbe3906cb069b575495a2cb49187f4e8ffad66fbd40ff0bf6a12c525ed62",
+    "release_notes_he":  "עדכון גרסה v0.5.5 - תיקוני באגים ושיפורים"
 }
