@@ -1,7 +1,7 @@
 ﻿{
     "version_code":  27,
     "version_name":  "1.0.4",
-    "apk_url":  "https://github.com/yosef-chai/smartsafeweb-whitelists/releases/download/v1.0.4/SmartSafeWeb-v1.0.4.apk",
+    "apk_url":  "https://github.com/yosef-chai/smartsafeweb-whitelists/releases/download/v1.0.4/SmartSafeWeb-v1.0.4-build27-release-2026.04.26-0251.apk",
     "sha256":  "8e81f93f4408ac966830fcae5d7309078789b92cfa56fe67c88e3ed25cad3eaa",
-    "release_notes_he":  "????? ?????? ??????? ?????"
+    "release_notes_he":  "שיפור בניהול עדכונים מרחוק"
 }
