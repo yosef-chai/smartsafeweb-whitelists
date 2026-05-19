@@ -1,7 +1,7 @@
 {
-    "version_code":  34,
-    "version_name":  "1.3.0",
-    "apk_url":  "https://github.com/yosef-chai/smartsafeweb-whitelists/releases/download/v1.3.0/SmartSafeWeb-v1.3.0-build34-release-2026.05.06-2324.apk",
-    "sha256":  "a264800832cec4287dca01c28177ffad66c368f93a3ce57f4956334d295e6b8d",
-    "release_notes_he":  "Update v1.3.0"
+    "version_code":  35,
+    "version_name":  "1.3.5",
+    "apk_url":  "https://github.com/yosef-chai/smartsafeweb-whitelists/releases/download/v1.3.5/SmartSafeWeb-v1.3.5-build35-release-2026.05.20-0000.apk",
+    "sha256":  "bebf3026e8dc4f0a0390139f27ebd37021e2e54a2c73570a1789db3de25ced5e",
+    "release_notes_he":  "Update v1.3.5"
 }
