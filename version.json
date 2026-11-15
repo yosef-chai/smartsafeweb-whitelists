@@ -1,29 +1,29 @@
 {
-  "version": 26,
-  "date": "2026-10-20",
+  "version": 27,
+  "date": "2026-11-15",
   "files": {
     "level_1": {
-      "hash": "0e49a3ec393586686b5f150f4fb8e2122cf00f571f3989344ee3df38f7aca54a",
-      "size": 38885
+      "hash": "c0dca69cf7e8a0059d8584f42490b4bdc79d0430e9ade6d6b9d6231f874d495b",
+      "size": 40160
     },
     "level_2": {
-      "hash": "8994c7245423556996834dc034873365cd1779a0e60cbf1c0066a551266da2e5",
-      "size": 15646
+      "hash": "20235cd2435a90db6153220c9f925f9b4a0f9141e3db6d5a99dc944ede052647",
+      "size": 16026
     },
     "level_3": {
-      "hash": "458b28b46bd0a11e107da47c4f9bdae2353f113d3ba18e067fc9dd2b26e37834",
-      "size": 10385
+      "hash": "3b045980d1b8bbd3f9fc54968de7c23a0658c51e60ab431ff497054b5982f401",
+      "size": 10632
     },
     "level_4": {
-      "hash": "5c5ef3a3a45c6cdfd1f2a8159a62e8e87dd55f05048e53fdf6ae4554babce237",
-      "size": 5012
+      "hash": "7819642c8642e5254c8ea72c8e9043764a8abd991f8efe54a4efb787ba91b1c6",
+      "size": 5159
     },
     "level_5": {
-      "hash": "d7edd3cf4d51a65276cb7576be6374548ce2abf054d80d78efd256d27c29b811",
-      "size": 4533
+      "hash": "40121ec0d03a2a58358993bcb35bc88e30a0c57ae8d97224ae0ad6c59749a8ee",
+      "size": 4945
     },
     "blocked": {
-      "hash": "609dcf4d28429a23fe9e33e51d5b2c489562e461c7f3e747821b5c51a3ccbf2d",
+      "hash": "3f0b94c590c5fec458044ef45d3f6b34e38a6ace066953be812d7b7280a182fd",
       "size": 2467
     }
   }
